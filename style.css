@@ -181,6 +181,7 @@ header{
     width: 639px;
     margin: 0 auto;
     padding-top: 100px;
+    
 
  }
  .box h2{
@@ -188,9 +189,8 @@ header{
     font-size: 18px;
     line-height: 100%;
     text-align: center;
-    text-transform: uppercase;
     color: #DF6951;
-    
+    text-transform: uppercase;
  }
 
  .box h2 + h2{
