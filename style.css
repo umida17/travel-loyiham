@@ -195,10 +195,10 @@ header{
 
  .box h2 + h2{
     font-weight: 700;
+    color: #181E4B;
     font-size: 50px;
     line-height: 71px;
     text-align: center;
-    color: #181E4B;
     margin-bottom: 80px;
  }
  .card2{
