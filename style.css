@@ -103,12 +103,12 @@ header{
     color: white;
  }
  .card_where_img2{
+   padding-top: 7px;
      margin-left: -140px;
-     padding-top: 7px;
  }
  .card_where_img3{
+   margin-left: -105px;
     border-radius: 25px;
-    margin-left: -105px;
  }
 
  .card_Duration{
