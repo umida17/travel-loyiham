@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    background: cadetblue;
+    margin-top: 60px;
+}
+.loader{
+    width: 80px;
+    height: 80px;
+    border: 5px solid red;
+    border-top-color: transparent;
+    border-radius: 50px;
+    animation: spin 1s linear infinite;
+    margin-bottom: 60px;
+}
+@keyframes spin {
+    to{transform: rotate(360deg);}
+}
+
+button{
+    padding: 15px 30px;
+    background: blue;
+    color: white;
+    border-radius: 10px;
+    animation: pulse 1.5s ease-in-out infinite;
+}
+@keyframes pulse { 
+    0%{transform: scale(1);}
+    50%{transform: scale(1.1);}
+    100%{transform: scale(1);}
+
+}

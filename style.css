@@ -1,0 +1,257 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url(./rasm.img/Rectangle\ 19290.png);
+    height: 976px;
+    background-repeat: no-repeat;
+}
+.container{
+    width: 1278px;
+    margin: 0 auto;
+    padding: 63px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+ ul{
+    width: 485px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+ }
+ ul li a{
+    text-decoration: none;
+    color: white;
+ }
+ .ul_img{
+    width: 11px;
+    padding-top: 5px;
+    margin-left: -50px;
+ }
+ .get{
+    background: #DF6951;
+    box-shadow: 0px 20px 35px 0px #DF695126;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 100%;
+    color: #FFFFFF;
+    padding: 19px 26px;
+    text-decoration: none;
+ }
+
+ .matter{
+    padding-top: 150px;
+ }
+ .matter_img{
+    width: 78px;
+    height: 15px;
+   
+ }
+
+ .matter h2{
+    width: 631px;
+    height: 272px;
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 68px;
+    padding-top: 13px;
+    color: white;
+ }
+ .card{
+    width: 840px;
+    height: 102px;
+    backdrop-filter: blur(35.521236419677734px);
+    background: #F3F3F399;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+ .card_where{
+    padding-top: 39px;
+    padding-bottom: 35px;
+    padding-left: 53px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: white;
+ }
+
+ .card_where_img{
+    width: 3px;
+    border-radius: 25px;
+    margin-left: -90px;
+ }
+ .card_where2{
+     padding-top: 39px;
+    padding-bottom: 35px;
+    margin-left: -103px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: white;
+ }
+ .card_where_img2{
+     margin-left: -140px;
+     padding-top: 7px;
+ }
+ .card_where_img3{
+    border-radius: 25px;
+    margin-left: -105px;
+ }
+
+ .card_Duration{
+     padding-top: 39px;
+    padding-bottom: 35px;
+    margin-left: -105px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: white;
+ }
+ .card_Duration1{
+    width: 12px;
+     margin-left: -140px;
+     padding-top: 7px; 
+ }
+
+ .Submit{
+    width: 160px;
+    background: #DF6951;
+    box-shadow: 0px 20px 35px 0px #DF695126;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 100%;
+    color: #FFFFFF;
+    padding: 17px;
+    text-decoration: none;
+    padding-left: 51px;
+    padding-bottom: 15px;
+    margin-left: -120px;
+    margin-right: 25px;
+ }
+
+ .booked{
+    width: 568px;
+    height: 40px;
+    padding-top: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+ }
+ .booked2{
+    width: 181px;
+    height: 36px;
+ }
+ .booked3{
+    width: 373px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 37px;
+    color: #FFFFFF;
+ }
+ .scroll{
+    height: 392px;
+    margin-left: 28px;
+    padding-top: 20px;
+ }
+ 
+/* kiyingi bolimga otildi */
+
+.container{
+    width: 1278px;
+    margin: 0 auto;
+   
+}
+
+ .box{
+    width: 639px;
+    margin: 0 auto;
+    padding-top: 100px;
+
+ }
+ .box h2{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #DF6951;
+    
+ }
+
+ .box h2 + h2{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 71px;
+    text-align: center;
+    color: #181E4B;
+    margin-bottom: 80px;
+ }
+ .card2{
+    border-radius: 17px;
+    box-shadow: 6px 14px 27px 0px #00000026;
+    box-shadow: -4px 11px 18px 0px #00000040 ;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 70px;
+    background: white;
+
+ }
+ .card2 img{
+    margin-top: -100px;
+ }
+
+.position{
+    position: absolute;
+    padding-top: 156px;
+    right: 559px;
+ }
+ .card2_vel{
+    width: 393px;
+    height: 114px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    margin: 0 auto;
+    color: black;
+    padding-top: -32px;
+ }
+.card2_vel3{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+    color: black;
+}
+.position2{
+     position: absolute;
+    padding-top: 159px;
+    left: 562px;
+}
+.section1{
+    position: relative;
+    margin-top: 200px;
+     background-image: url(./rasm.img/h1-background-img-1\ 1.png);
+     background-repeat: no-repeat;
+     margin-bottom: 50px;
+    
+}
+.chiganoq{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    height: 300px;
+}
