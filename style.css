@@ -29,8 +29,8 @@ header{
     gap: 30px;
  }
  ul li a{
-    text-decoration: none;
     color: white;
+    text-decoration: none;
  }
  .ul_img{
     width: 11px;
@@ -61,11 +61,12 @@ header{
  .matter h2{
     width: 631px;
     height: 272px;
+    color: white;
     font-weight: 700;
     font-size: 58px;
     line-height: 68px;
     padding-top: 13px;
-    color: white;
+  
  }
  .card{
     width: 840px;
